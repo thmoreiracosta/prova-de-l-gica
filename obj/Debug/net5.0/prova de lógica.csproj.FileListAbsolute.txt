@@ -1,0 +1,32 @@
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.csprojAssemblyReference.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.GeneratedMSBuildEditorConfig.editorconfig
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.AssemblyInfoInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.AssemblyInfo.cs
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.csproj.CoreCompileInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.exe
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.deps.json
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.runtimeconfig.json
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.runtimeconfig.dev.json
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\ref\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\bin\Debug\net5.0\prova de lógica.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\ref\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\prova de lógica\obj\Debug\net5.0\prova de lógica.genruntimeconfig.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.exe
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.deps.json
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.runtimeconfig.json
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.runtimeconfig.dev.json
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\ref\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\bin\Debug\net5.0\prova de lógica.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.csprojAssemblyReference.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.GeneratedMSBuildEditorConfig.editorconfig
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.AssemblyInfoInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.AssemblyInfo.cs
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.csproj.CoreCompileInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\ref\prova de lógica.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\Nova pasta\obj\Debug\net5.0\prova de lógica.genruntimeconfig.cache
